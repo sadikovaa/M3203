@@ -7,7 +7,7 @@
 
 ### Практика
 
-**Преподаватель:** 	Павел тг: @paba09
+**Преподаватель:** 	Павел @paba09
 
 [Таблица с баллами](https://docs.google.com/spreadsheets/d/1uag_OJ2smbooZUJgssABU_BBirNQqOEG5VZKZ4fBf2g/edit#gid=0)
 
