@@ -7,7 +7,7 @@
 [Zoom]()
 Я пока чтото не догнала, по однойли у нас ссылке занятия, вроде нет...
 
-[Гугл Диск](http://mathdep.ifmo.ru/mmtp/special_sections_lin_alg/)
+[Гугл Диск](https://drive.google.com/drive/folders/1xpOa-rTGdLWPfsA9euCG1-hARwVa5w2L?usp=sharing)
 
 ### Практика
 
