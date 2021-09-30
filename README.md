@@ -18,7 +18,7 @@
 Учебные ссылки:
 * [Канал с объявлениями группы](https://t.me/y2024_03)
 * [Канал с объявлениями ИСа](https://t.me/itmo_is_24)
-* [Чат группы]()
+* [Чат группы](https://t.me/joinchat/2DRZTygtZXZkYjk6)
 * [БАРС](https://bars.itmo.ru/bars/disciplines)
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
