@@ -2,6 +2,7 @@
 ## 1 семестр 
 
 * ### [Расписание](https://my.itmo.ru/schedule)
+* ### [Список группы](Subjects/list.md)
 
 Учебные дисциплины:
 *  [Безопасность жизнедеятельности](https://vk.com/lifesafety_itmo)
