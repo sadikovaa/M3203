@@ -22,3 +22,5 @@
 * [БАРС](https://bars.itmo.ru/bars/disciplines)
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
+
+![567654-1594886413](https://user-images.githubusercontent.com/79834063/135448015-d3e837f8-a90b-44db-bd61-e3aba70e66a6.jpg)
