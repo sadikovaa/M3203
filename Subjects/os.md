@@ -19,6 +19,6 @@
 
 [Лабораторная работа №3](https://drive.google.com/file/d/1w0zV8BOM_U3gCNPcmqbi3YMrJwMnUuIp/view?usp=sharing)
 
-[Лабораторная работа №4](https://drive.google.com/file/d/1w0zV8BOM_U3gCNPcmqbi3YMrJwMnUuIp/view?usp=sharing)
+[Лабораторная работа №4](https://drive.google.com/file/d/1mCt_feiJSuXtCFMsABnU-ZzEOvqw7Zzy/view?usp=sharing)
 
 [Лабораторная работа №5](https://drive.google.com/file/d/1s60dVV1s1zbZwdo6UK5SCx42yb96OqJs/view?usp=sharing)
