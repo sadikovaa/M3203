@@ -22,3 +22,7 @@
 [Лабораторная работа №4](https://drive.google.com/file/d/1mCt_feiJSuXtCFMsABnU-ZzEOvqw7Zzy/view?usp=sharing)
 
 [Лабораторная работа №5](https://drive.google.com/file/d/1s60dVV1s1zbZwdo6UK5SCx42yb96OqJs/view?usp=sharing)
+
+[Лабораторная работа №6 база](https://drive.google.com/file/d/1T7U4vORC59alPGKPavyp-p3i7nfNGDvv/view?usp=sharing)
+
+[Лабораторная работа №6 повыш](https://drive.google.com/file/d/1bxz56E6gjZlAcqQXERiU6i9GE5aCigqe/view?usp=sharing)
