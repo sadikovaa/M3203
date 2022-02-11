@@ -6,11 +6,10 @@
 * ### [Дедлайны](https://docs.google.com/spreadsheets/d/1VgPcZ8XtrvgnLy6pOzJuIVG9OIXJ-uqAPa6kLfyHN8o/edit#gid=1197809782)
 
 Учебные дисциплины:
-*  [Безопасность жизнедеятельности](https://vk.com/lifesafety_itmo)
-*  [Дополнительные главы высшей математики](Subjects/matan.md)
+*  [](Subjects/matan.md)
 *  [Объектно-ориентированное программирование](Subjects/oop.md)
-*  [Операционные системы](Subjects/os.md)
-*  [Теория вероятностей](Subjects/teorver.md)
+*  [Базы данных](Subjects/bd.md)
+*  [Математическая статистика](Subjects/matstat.md)
 *  [Специальные разделы физики](Subjects/physics.md)
 *  [Английский язык](https://vk.com/fltc.itmo)
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
