@@ -10,7 +10,7 @@
 *  [Объектно-ориентированное программирование](Subjects/oop.md)
 *  [Базы данных](Subjects/bd.md)
 *  [Математическая статистика](Subjects/matstat.md)
-*  [Специальные разделы физики](Subjects/physics.md)
+*  [Дополнительные главы физики](Subjects/physics.md)
 *  [Английский язык](https://vk.com/fltc.itmo)
 *  [Физическая культура](https://isu.ifmo.ru/pls/apex/f?p=2153:15:108337501947348::NO:RP,3::)
 
