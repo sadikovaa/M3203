@@ -1,12 +1,12 @@
 # M3203
-## 3 семестр 
+## 4 семестр 
 
 * ### [Расписание](https://my.itmo.ru/schedule)
 * ### [Список группы](Subjects/list.md)
 * ### [Дедлайны](https://docs.google.com/spreadsheets/d/1VgPcZ8XtrvgnLy6pOzJuIVG9OIXJ-uqAPa6kLfyHN8o/edit#gid=1197809782)
 
 Учебные дисциплины:
-*  [](Subjects/matan.md)
+*  [Прикладная математика](Subjects/primat.md)
 *  [Объектно-ориентированное программирование](Subjects/oop.md)
 *  [Базы данных](Subjects/bd.md)
 *  [Математическая статистика](Subjects/matstat.md)
