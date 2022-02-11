@@ -4,7 +4,7 @@
 
 **Преподаватель:** Ефремова Екатерина Александровна *Efremova.kate@gmail.com*
 
-[Сайт фтф](https://study.physics.itmo.ru/?redirect=0) 
+[Сайт фтф](https://study.physics.itmo.ru/?redirect=0)  
 [Канал в телеге](https://t.me/+uM8tUN7MHs84Y2Ri)
 
 **Разбалловка по физике:** 
