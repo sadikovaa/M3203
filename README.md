@@ -23,4 +23,4 @@
 * [ИСУ](https://isu.ifmo.ru/)
 * [ЦДО](https://de.ifmo.ru/)
 
-![567654-1594886413](Subjects/7Tq2RupdxI4.jpg)
+![we](Subjects/thisisus.jpg)
